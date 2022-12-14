@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nomadcod-movielog.git/static/css/main.e6c13ad2.css",
+    "main.js": "/nomadcod-movielog.git/static/js/main.729bd2a2.js",
+    "static/js/787.c2e769fd.chunk.js": "/nomadcod-movielog.git/static/js/787.c2e769fd.chunk.js",
+    "index.html": "/nomadcod-movielog.git/index.html",
+    "main.e6c13ad2.css.map": "/nomadcod-movielog.git/static/css/main.e6c13ad2.css.map",
+    "main.729bd2a2.js.map": "/nomadcod-movielog.git/static/js/main.729bd2a2.js.map",
+    "787.c2e769fd.chunk.js.map": "/nomadcod-movielog.git/static/js/787.c2e769fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.729bd2a2.js"
+  ]
+}
